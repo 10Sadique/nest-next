@@ -16,13 +16,13 @@ To set up the TurboRepo, follow the steps below:
 1. Clone the repository to your local machine using the following command:
 
     ```bash
-    git clone <repo-url>
+    git clone https://github.com/10Sadique/nest-next.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd <project-directory>
+    cd nest-next
     ```
 
 3. Install the dependencies for both the backend and frontend:
